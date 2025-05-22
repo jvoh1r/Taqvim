@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(73, 72, 72);
+    
+}
+table tr, th, td{
+    border: 2 px solid black;
+}
+table{
+    display: inline-block;
+    border: 1px solid;
+    border-collapse: collapse;
+    color: white;
+    text-align: center;
+    
+}
+
+
+
+tr:hover{
+    font-size: 20px;
+    background-color: rgb(110, 179, 248);
+    transition: 500ms;
+}
+th{
+    padding: 7px;
+    font-size: 25px;
+    background-color: aqua;
+}
+td{
+    padding: 7px;
+    font-size: 20px;
+}
+table, th, td{
+    border: 1px solid;
+    border-color: aqua;
+}
+body{
+    text-align: center;
+}
+.a1{
+    width: 100px;
+    color: black;
+}
+.a2{
+    width: 230px;
+    color: black;
+}
+.a3{
+    width: 350px;
+    color: black;
+}
+.a4{
+    width: 200px;
+    color: black;
+}
+.a5{
+    width: 200px;
+    color: black;
+}
